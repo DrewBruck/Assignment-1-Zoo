@@ -1,0 +1,40 @@
+body {
+    font-family: Gill Sans, sans-serif;
+    background-color: rgb(88, 96, 38);
+    text-align: center;
+  }
+  
+  a:link, a:visited {
+    background-color:rgb(88, 96, 38);
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: larger;
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(16, 38, 103);
+    font-size: 150%;
+  }
+  
+  h1{
+    color: white;
+    text-align: center;
+    background-color: black;
+    border: 5px outset black;
+    border-radius: 12px;
+    padding: 5px;
+    margin: auto;
+    height:35px;
+    width: 500px;
+  }
+  
+  h3{
+    color: black;
+    text-align: center;
+  
+  }
+  
+  

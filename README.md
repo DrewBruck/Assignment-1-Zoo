@@ -1,8 +1,12 @@
-Assignment 1 - Zoo
+# Assignment 1 - Zoo  
 
-Collaborators:
+### Live Link  
+[Website link](https://drewbruck.github.io/Assignment-1-Zoo/)  
 
-Dinasty Kelly - 
-Drew Bruck - @DrewBruck
-Juliana Redondo - @JuliRed
-Mohammed Uddin - @MohammedDigitalSage
+
+### Collaborators:  
+
+Dinasty Kelly - @dinastyk  
+Drew Bruck - @DrewBruck  
+Juliana Redondo - @JuliRed  
+Mohammed Uddin - @MohammedDigitalSage  
