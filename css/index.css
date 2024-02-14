@@ -1,5 +1,38 @@
 body {
   font-family: Gill Sans, sans-serif;
-  background-color: salmon;
+  background-color: rgb(25, 118, 199);
   text-align: center;
 }
+
+a:link, a:visited {
+  background-color:rgb(25, 118, 199);
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: green;
+  font-size: 150%;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  background-color: black;
+  border: 5px outset black;
+  border-radius: 12px;
+  padding: 5px;
+  margin: auto;
+  height:35px;
+  width: 500px;
+}
+
+h3{
+  color: black;
+  text-align: center;
+
+}
+
