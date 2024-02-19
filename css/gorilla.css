@@ -1,6 +1,6 @@
 body {
     font-family: Gill Sans, sans-serif;
-    background-color: rgb(89, 85, 79);
+    background-color: rgb(62,74,93);
     text-align: center;
   }
 
@@ -9,12 +9,12 @@ body {
     margin: auto;
     width: 770px;
     padding: 10px;
-    color: black;
+    color: white;
     font-size: 150%;
 
   }
 
   h1 {
     font-family: Gill Sans, sans-serif;
-    color: black;
+    color: white;
   }
