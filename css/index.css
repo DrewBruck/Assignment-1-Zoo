@@ -1,11 +1,12 @@
 body {
-  font-family: Gill Sans, sans-serif;
-  background-color: rgb(25, 118, 199);
+  font-family: Baskerville;
+  background-color: rgb(9, 77, 145);
   text-align: center;
 }
 
-a:link, a:visited {
-  background-color:rgb(25, 118, 199);
+a:link,
+a:visited {
+  background-color: rgb(25, 118, 199);
   color: white;
   padding: 14px 25px;
   text-align: center;
@@ -13,12 +14,13 @@ a:link, a:visited {
   display: inline-block;
 }
 
-a:hover, a:active {
+a:hover,
+a:active {
   background-color: green;
   font-size: 150%;
 }
 
-h1{
+h1 {
   color: white;
   text-align: center;
   background-color: black;
@@ -26,13 +28,11 @@ h1{
   border-radius: 12px;
   padding: 5px;
   margin: auto;
-  height:35px;
+  height: 35px;
   width: 500px;
 }
 
-h3{
+h3 {
   color: black;
   text-align: center;
-
 }
-
