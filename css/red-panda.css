@@ -1,13 +1,13 @@
 body {
   font-family: Gill Sans, sans-serif;
-  background-color: rgba(201, 237, 108, 0.891);
+  background-color: rgba(7, 42, 106, 0.891);
   text-align: center;
 }
 
 .center {
   border: 2px solid;
   margin: auto;
-  width: 770px;
+  width: 480px;
   padding: 10px;
   color: rgb(0, 0, 0);
   font-size: 150%;
