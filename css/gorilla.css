@@ -1,0 +1,20 @@
+body {
+    font-family: Gill Sans, sans-serif;
+    background-color: rgb(62,74,93);
+    text-align: center;
+  }
+
+  .center {
+    border: 3px solid;
+    margin: auto;
+    width: 770px;
+    padding: 10px;
+    color: white;
+    font-size: 150%;
+
+  }
+
+  h1 {
+    font-family: Gill Sans, sans-serif;
+    color: white;
+  }
