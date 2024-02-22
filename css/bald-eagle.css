@@ -13,6 +13,19 @@ body {
     font-size: 150%;
 
   }
+  a:link,
+  a:visited {
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover,
+  a:active {
+    font-size: 150%;
+  }
 
   h1 {
     font-family: Gill Sans, sans-serif;
