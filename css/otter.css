@@ -1,0 +1,38 @@
+
+body {
+    font-family: Gill Sans, sans-serif;
+    background-color: #b0e0e6; 
+    text-align: center;
+  }
+  
+  .center {
+    border: 2px solid #4682b4;
+    border-style: inset;
+    margin: auto;
+    width: 680px;
+    padding: 10px;
+    color: #333;
+    font-size: 150%;
+  }
+    h1 {
+    font-family: Gill Sans, sans-serif;
+    color: #4682b4; 
+    margin-top: 20px;
+  }
+  img {
+    margin: 20px 0;
+    border-radius: 5px;
+  }
+  
+  p {
+    color: #333; 
+    margin: 0 auto;
+    width: 80%;
+  }
+  a {
+    color: #4682b4; 
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
