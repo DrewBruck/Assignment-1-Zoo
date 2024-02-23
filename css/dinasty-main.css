@@ -1,0 +1,36 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #CCCCFF;
+    text-align: center;
+  }
+  
+  
+  h1 {
+    color: #333;
+  }
+  
+ 
+  h3 {
+    color: #666;
+  }
+  
+  /* link button styles */
+  .link {
+    margin: 10px 0;
+  }
+  
+  .link a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #CCCCFF;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .link a:hover {
+    background-color: #b6b6f5;
+  }

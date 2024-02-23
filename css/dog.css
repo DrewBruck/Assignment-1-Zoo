@@ -1,0 +1,42 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #F5DEB3; 
+  text-align: center;
+}
+
+.center {
+  border: 2px solid #CD853F; 
+  border-style: inset;
+  margin: auto;
+  width: 680px;
+  padding: 10px;
+  color: #333; 
+  font-size: 20px;
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+  color: #CD853F;
+  margin-top: 20px;
+}
+
+img {
+  margin: 20px 0;
+  border-radius: 5px;
+}
+
+p {
+  color: #333; 
+  margin: 0 auto;
+  width: 80%;
+}
+
+a {
+  color: #d55c1f; 
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
