@@ -18,3 +18,12 @@ h1 {
   font-family: Gill Sans, sans-serif;
   color: rgb(230, 35, 35);
 }
+
+a:link,
+  a:visited {
+    color: rgb(230, 35, 35);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }

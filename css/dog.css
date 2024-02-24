@@ -5,6 +5,15 @@ body {
   text-align: center;
 }
 
+a:link,
+  a:visited {
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
 .center {
   border: 2px solid #CD853F; 
   border-style: inset;

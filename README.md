@@ -8,5 +8,4 @@
 
 Dinasty Kelly - @dinastyk  
 Drew Bruck - @DrewBruck  
-Juliana Redondo - @JuliRed  
-Mohammed Uddin - @MohammedDigitalSage  
+Juliana Redondo - @JuliRed
